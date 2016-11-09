@@ -1,0 +1,32 @@
+.message-pager li>button{
+    color: #FFFFFF !important;
+    background-color: #62A8EA !important;
+}
+.message-pager li>button:hover{
+    color: #62A8EA !important;
+    background-color: #FFFFFF !important;
+    cursor: pointer;
+}
+.img_venta{
+    width: 50px;
+}
+#infoTable tbody tr td{
+    vertical-align: middle;
+}
+.action-button{
+    width: 50px;
+    float: left;
+    margin: 0px 10px 0px 0px !important;
+    padding: 0px !important;
+
+}
+.page, .site-footer{
+    margin-left: 0px !important;
+}
+#loading-modal {
+    display:    none;
+    position:   fixed;
+    z-index:    2000;
+    top:        50%;
+    left:       50%;
+}
